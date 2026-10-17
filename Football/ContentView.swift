@@ -30,8 +30,8 @@ struct ContentView: View {
                     .foregroundStyle(.purple)
                     
             }
-            .padding()
         }
+        .padding()
     }
 }
 
